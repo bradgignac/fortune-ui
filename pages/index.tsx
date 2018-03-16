@@ -1,1 +1,1 @@
-export default () => <h1>Hello World {{ props }}</h1>;
+export default () => <h1>Hello World</h1>;
